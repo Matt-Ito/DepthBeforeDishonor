@@ -1,0 +1,47 @@
+.ui.borderless.topmenu.menu {
+  background-color: transparent;
+  box-shadow: none;
+  border: none;
+}
+
+.ui.middlemenu.menu {
+  border: none;
+  box-shadow: none;
+  background-color: #761200;
+  font-family: "Quantico", "HelveticaNeue", "Helvetica Neue", sans-serif;
+}
+
+h2 {
+  font-family: "Quantico", "HelveticaNeue", "Helvetica Neue", sans-serif;
+  font-weight: 1700;
+  color: white;
+}
+
+p {
+  display: block;
+  color: #c7aeae;
+}
+
+feature-row_content {
+  margin-left: auto;
+  margin-right: 0px;
+}
+
+.parent {
+  position: relative;
+  top: 0;
+  bottom: 0;
+}
+
+.image1 {
+  position: absolute;
+  top: 250px;
+  left: 450px;
+}
+
+.footer-background {
+  background-color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: black;
+}
